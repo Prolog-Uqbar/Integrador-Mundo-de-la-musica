@@ -4,6 +4,8 @@
 
 **_Los Hermanos Guarner, empresarios del mundo de la música nos contratan para mejorar su sistema de información. Nuestro ingeniero, que tenía ganas de aprender un lenguaje nuevo hace rato, les vendió un sistema hecho en Prolog. La primera versión, con deadline hoy a las 12:30, incluye unas cuantas funcionalidades que tienen que ver con el pago a los artistas y saber qué discos fueron exitosos._**
 
+![](discos.jpg)
+
 De cada disco sabemos en qué año salió y cuántas copias vendió
 ~~~
 % disco(artista, nombreDelDisco, cantidad, año).
